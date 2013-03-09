@@ -7,7 +7,7 @@ Written in Visual Basic .Net Language with Microsoft Visual Studio 2003.
 I hope they serve.
 
 Español
-=========
+=======
 Maya es un gestor de coches de alquiler simple.
 Proporciona servicio de registro de vehículos y clientes.
 Surge de un trabajo práctico en la universidad.
@@ -48,6 +48,9 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Español
+=========
 
 TRADUCCIÓN NO OFICIAL NI AUTORIZADA PARA SU USO COMO LICENCIA LEGAL
 Copyright (c) 2011 Cantero, Alejandro Lucas; Schiebel, Cecilia
