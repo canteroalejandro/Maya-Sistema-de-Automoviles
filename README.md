@@ -1,4 +1,4 @@
-Maya---Sistema-de-Automoviles
+Maya-Sistema-de-Automoviles
 =============================
 Maya is a simple car rental manager.
 Provides registration service for vehicles and customers.
@@ -6,23 +6,24 @@ Arises From a Practical Work in the college.
 Written in Visual Basic .Net Language with Microsoft Visual Studio 2003.
 I hope they serve.
 
-[Español]
-
+Español
+=========
 Maya es un gestor de coches de alquiler simple.
 Proporciona servicio de registro de vehículos y clientes.
 Surge de un trabajo práctico en la universidad.
 Escrito en Visual Basic. NET con Microsoft Visual Studio 2003.
 Espero que les sirva.
 
-[Requeriments]
-
+Requeriments
+============
 
 .NET Framework 1.1
 
 For deploy
 	Microsoft Visual Studio 2003.
 
-[MIT License]
+MIT License
+===========
 
 Copyright (c) 2011 Cantero, Alejandro Lucas; Schiebel, Cecilia
 
